@@ -1,0 +1,30 @@
+.container.max-size {
+    max-width: 300px;
+    padding:  0 0 30px;
+}
+
+body {
+    font-size: 28px;
+}
+
+.icon i {
+    width:  40px;
+    text-align: center;
+}
+
+.text-field {
+    padding-left: 15px;
+}
+
+.d-flex {
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-size: 100px;
+    margin: 70px;
+}
+
+button {
+    margin-top: 20px;
+}
