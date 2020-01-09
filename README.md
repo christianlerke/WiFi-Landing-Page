@@ -6,7 +6,7 @@ Parameters need to be URL encoded.
 
 ## Example
 Parameter: `Hello World|<-n|p->|789-6ia-Ua6-83H`  
-Encoded URL: `https://christianlerke.github.io/WiFi-Landing-Page/#Hello%20World%7C%3C-n%7Cp-%3E%7C789-6ia-Ua6-83H`
+Encoded URL: [`https://christianlerke.github.io/WiFi-Landing-Page/#Hello%20World%7C%3C-n%7Cp-%3E%7C789-6ia-Ua6-83H`](https://christianlerke.github.io/WiFi-Landing-Page/#Hello%20World%7C%3C-n%7Cp-%3E%7C789-6ia-Ua6-83H)
 
 ![Example](https://github.com/christianlerke/WiFi-Landing-Page/raw/master/Example.jpg)
 
